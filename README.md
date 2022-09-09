@@ -14,5 +14,4 @@ TODO'S / Improvements that could be made:
 
 - Transition animations could be added to opening, closing and changing the selected post.
 
-- Used BootStrap instead of react-bootstrap, rarely used it so it wasn't a huge concern but could be improved.
-
+- Used react-bootstrap instead of bootstrap, rarely used it so it wasn't a huge concern but could be improved and used more.
