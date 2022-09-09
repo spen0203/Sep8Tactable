@@ -1,6 +1,10 @@
 # Sep8Tactable
 Tactable Blog
 
+Run using `npm run dev`
+
+Test using `npm test`
+
 TODO'S / Improvements that could be made:
 
 - Tests Could be expanded to cover all possible invalid values on both CTOR & deserializers.
