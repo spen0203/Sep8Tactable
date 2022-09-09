@@ -1,5 +1,5 @@
 # Sep8Tactable
-Tactable interview test
+Tactable Blog
 
 TODO'S / Improvements that could be made:
 
